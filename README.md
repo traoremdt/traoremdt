@@ -33,13 +33,6 @@ Je transforme les données brutes en informations exploitables. Mon objectif est
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
----
-
-## 📈 Statistiques GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=traoremdt&show_icons=true&theme=dark&include_all_commits=true" />
-</p>
 
 ---
 
