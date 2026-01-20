@@ -1,4 +1,4 @@
-# Salut ! Moi c'est Mamoutou 👋 📊
+## Salut ! Moi c'est Mamoutou 👋 📊
 
 ### Passionné par l'exploitation des données et l'Intelligence Artificielle
 
