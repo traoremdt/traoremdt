@@ -37,4 +37,4 @@ Je transforme les données brutes en informations exploitables. Mon objectif est
 ---
 
 ## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VOTRE_PROFIL)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mamoutou-traoré-7865093a7)
